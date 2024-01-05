@@ -11,7 +11,7 @@ export default function App() {
         source={{
           uri: 'https://reactnative.dev/docs/assets/p_cat1.png',
         }}
-        style={{width: 200, height: 200}}
+        style={{width: 201, height: 200}}
       />
     </View>
   );
