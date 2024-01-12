@@ -21,7 +21,7 @@ const CircleProgress = ({ progress }) => {
                 cy="100"
                 r="50"
                 fill="transparent"
-                stroke="#d3d3d4"  // Change this to the progress color
+                stroke="#d3d3d5"  // Change this to the progress color
                 strokeWidth="30"
                 stroke-dasharray="439.8"
                 stroke-dashoffset="0"
